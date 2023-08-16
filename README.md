@@ -1,1 +1,1 @@
-# Indian-Currency-CounterAI
+# Indian-Currency-Detection
